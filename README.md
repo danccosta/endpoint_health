@@ -6,6 +6,7 @@ To run it, sign in or create an account in:
 
 Create a cluster in:  
 
+- Choose a name for the cluster (myCluster)
 - Compute -> Create a Cluster -> Databricks runtime version (default)  
 
 Import notebook:  
